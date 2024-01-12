@@ -119,3 +119,11 @@ body {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.snake {
+  background-color: white;
+}
+
+.snake:first-child {
+  background-color: aquamarine;
+}
