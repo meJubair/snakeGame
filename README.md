@@ -1,3 +1,3 @@
 # SnakeGame
 
-This is a task for Databases and Data Structures!
+This game is an assignment for a course in Business College Helsinki
